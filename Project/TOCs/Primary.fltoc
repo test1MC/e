@@ -2,6 +2,5 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/aa.htm" />
+    Title="[%=System.LinkedTitle%]" />
 </CatapultToc>
